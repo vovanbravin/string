@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  String.cpp
+  Создание кода...
+String.obj : error LNK2005: main уже определен в Source.obj
+C:\Users\vivab\source\repos\Project38\x64\Debug\Project38.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
